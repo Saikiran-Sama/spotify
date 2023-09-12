@@ -1,0 +1,38 @@
+#line1{
+    height: 50px;
+    border: 2px solid red;
+}
+.para1{
+    height: 600px;
+    width: 60%;
+    /* border: 2px solid;   */
+    margin: 0%;
+    margin-left: 20%;
+   /* text-align: center; */
+   padding: 1%;
+   /* font-size: 35px; */
+   font-weight: 700;
+   background-color: #ffffff;
+}
+#body2{
+    /* border: 2px solid; */
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    /* align-items: center; */
+    padding: 0%;
+    padding-top: 90px;
+    font-weight: 800;
+    font-size: 40px;
+    background-image: url(./image/bubbles-dktp.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: rgb(176, 35, 194) ;
+}
+.but{
+    height: 60px;
+    width: 250px;
+    border-radius: 200px;
+    border: none;
+}
